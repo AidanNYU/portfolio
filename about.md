@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+
+[Download Resume (PDF)](/assets/Aidan's_Resume_F1.pdf)
+
+
+
 <div class="hero-section" style="padding: 100px 0; background: var(--background-color); border-bottom: 1px solid var(--border-color); text-align: center;">
     <div class="container">
         <h1 style="font-size: var(--font-size-3xl); letter-spacing: -0.02em; color: var(--text-primary);">About MESGRO</h1>
